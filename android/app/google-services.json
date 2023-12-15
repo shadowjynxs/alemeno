@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315177451379",
+    "project_id": "alemeno-787d2",
+    "storage_bucket": "alemeno-787d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315177451379:android:c1dc501375fd4971700f06",
+        "android_client_info": {
+          "package_name": "com.nxs.alemeno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgFkcyY6tYLE5W71PXf5HXP1em2ePDhLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
